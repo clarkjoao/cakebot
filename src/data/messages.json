@@ -1,0 +1,8 @@
+{
+    "first_mesage": "Olá 👋, tudo bem??\n\nQuer saber onde você pode encontrar algum produto que divulgamos aqui em nosso perfil??\n\nVamos te ajudar!!",
+    "secund_message": "Em qual a marca que você tem interesse?? \n\n{menu}",
+    "third_message": "Nossos produtos estão disponíveis nas seguintes cidades de Alagoas: \n\n{menu}",
+    "fourth_message": "Voçê pode encontrar nossos produtos nas seguintes lojas: \n\n{menu}",
+    "fourth_message_error": "Não conseguimos identificar nenhuma loja nessa cidade que venda nossos produtos... 🙁",
+    "fifth_message": "A *Lucmar Representações* agradeçe a preferencia!☺️"
+}

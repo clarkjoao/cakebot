@@ -1,0 +1,456 @@
+{
+    "brands": [{
+        "id": 1,
+        "name": "Mavalério"
+    }, {
+        "id": 2,
+        "name": "Áurea"
+    }, {
+        "id": 3,
+        "name": "Copobras"
+    }, {
+        "id": 4,
+        "name": "Embalebem"
+    }, {
+        "id": 5,
+        "name": "Icofort"
+    }, {
+        "id": 6,
+        "name": "Plastilania"
+    }, {
+        "id": 7,
+        "name": "Roldan"
+    }, {
+        "id": 8,
+        "name": "Solrac"
+    }, {
+        "id": 9,
+        "name": "Wyda"
+    }, {
+        "id": 10,
+        "name": "Balas Santa Rita"
+    }, {
+        "id": 11,
+        "name": "FAB"
+    }],
+    "cities": [{
+        "id": 1,
+        "name": "Maceió"
+    }, {
+        "id": 2,
+        "name": "Arapiraca"
+    }, {
+        "id": 3,
+        "name": "Palmeira dos Indios"
+    }, {
+        "id": 4,
+        "name": "Santana do ipanema"
+    }, {
+        "id": 5,
+        "name": "Coruripe"
+    }, {
+        "id": 6,
+        "name": "Delmiro Gouveia"
+    }, {
+        "id": 7,
+        "name": "Olho d'Agua das Flores"
+    }, {
+        "id": 8,
+        "name": "Rio Largo"
+    }, {
+        "id": 9,
+        "name": "Porto Calvo"
+    }, {
+        "id": 10,
+        "name": "Pilar"
+    }, {
+        "id": 11,
+        "name": "Viçosa"
+    }],
+    "places": [{
+        "name": "Aleplast",
+        "phone": "(82) 981711968",
+        "link": "encurtador.com.br/hvK49",
+        "location": "",
+        "brands": [],
+        "cities": [1]
+    }, {
+        "name": "Centralplast",
+        "phone": "(82) 999681776",
+        "link": "encurtador.com.br/BKU67",
+        "location": "",
+        "brands": [],
+        "cities": [1]
+    }, {
+        "name": "Quintela Embalagens",
+        "phone": "(82) 996000451",
+        "link": "encurtador.com.br/jpuyD",
+        "location": "",
+        "brands": [],
+        "cities": [1]
+    }, {
+        "name": "Felícia Festas",
+        "phone": "(82) 988472858",
+        "link": "encurtador.com.br/oEG79",
+        "location": "",
+        "brands": [],
+        "cities": [1]
+    }, {
+        "name": "Varejão dos Doces",
+        "phone": "(82) 988889584",
+        "link": "encurtador.com.br/oz037",
+        "location": "",
+        "brands": [],
+        "cities": [1]
+    }, {
+        "name": "DMais Plast",
+        "phone": "(82) 991343669",
+        "link": "encurtador.com.br/hFIW8",
+        "location": "",
+        "brands": [],
+        "cities": [1]
+    }, {
+        "name": "Folia/Festança",
+        "phone": "(82) 999977175",
+        "link": "encurtador.com.br/chwM6",
+        "location": "",
+        "brands": [],
+        "cities": [1]
+    }, {
+        "name": "Yara Fest",
+        "phone": "(82) 988679274",
+        "link": "encurtador.com.br/pAM02",
+        "location": "",
+        "brands": [],
+        "cities": [1]
+    }, {
+        "name": "Plastpan",
+        "phone": "(82) 981939671",
+        "link": "encurtador.com.br/chzNP",
+        "location": "",
+        "brands": [],
+        "cities": [1]
+    }, {
+        "name": "Plast Fest",
+        "phone": "(82) 991195494",
+        "link": "encurtador.com.br/rsxIO",
+        "location": "",
+        "brands": [],
+        "cities": [1]
+    }, {
+        "name": "Duda Fest",
+        "phone": "(82) 996570503",
+        "link": "encurtador.com.br/tzKS4",
+        "location": "",
+        "brands": [],
+        "cities": [1]
+    }, {
+        "name": "Mixplast",
+        "phone": "(82) 9987385206",
+        "link": "encurtador.com.br/jrxFL",
+        "location": "",
+        "brands": [],
+        "cities": [1]
+    }, {
+        "name": "Casa Lamenha",
+        "phone": "(82) 999979401",
+        "link": "encurtador.com.br/bjBET",
+        "location": "",
+        "brands": [],
+        "cities": [1]
+    }, {
+        "name": "Plastipel",
+        "phone": "(82) 996053570",
+        "link": "encurtador.com.br/hsTWZ",
+        "location": "",
+        "brands": [],
+        "cities": [1]
+    }, {
+        "name": "Mercadão Festa",
+        "phone": "(82) 981424997",
+        "link": "encurtador.com.br/nHNOT",
+        "location": "",
+        "brands": [],
+        "cities": [1]
+    }, {
+        "name": "Qualitty Pan",
+        "phone": "(82) 996343700",
+        "link": "encurtador.com.br/ryzTY",
+        "location": "",
+        "brands": [],
+        "cities": [1]
+    }, {
+        "name": "Targuz",
+        "phone": "(82) 994446406",
+        "link": "encurtador.com.br/dlpHR",
+        "location": "",
+        "brands": [],
+        "cities": [1]
+    }, {
+        "name": "Novamix",
+        "phone": "(82) 999592455",
+        "link": "encurtador.com.br/uvA09",
+        "location": "",
+        "brands": [],
+        "cities": [1]
+    }, {
+        "name": "Arte Folia",
+        "phone": "(82) 996081439",
+        "link": "encurtador.com.br/txBIR",
+        "location": "",
+        "brands": [],
+        "cities": [1]
+    }, {
+        "name": "Bomboniere do Ponto",
+        "phone": "(82) 988817928",
+        "link": "encurtador.com.br/nqE23",
+        "location": "",
+        "brands": [],
+        "cities": [1]
+    }, {
+        "name": "Bomboniere Virou Mania",
+        "phone": "(82) 996769326",
+        "link": "encurtador.com.br/nCFQ6",
+        "location": "",
+        "brands": [],
+        "cities": [1]
+    }, {
+        "name": "Aky Festas",
+        "phone": "(82) 987324134",
+        "link": "encurtador.com.br/deuv4",
+        "location": "",
+        "brands": [],
+        "cities": [1]
+    }, {
+        "name": "UP Distribuidora",
+        "phone": "(82) 993216145",
+        "link": "encurtador.com.br/lmxAL",
+        "location": "",
+        "brands": [],
+        "cities": [1]
+    }, {
+        "name": "Palato",
+        "phone": "",
+        "link": "",
+        "location": "",
+        "brands": [],
+        "cities": [1]
+    }, {
+        "name": "Gramfix",
+        "phone": "(82) 991843530",
+        "link": "encurtador.com.br/ckMQU",
+        "location": "",
+        "brands": [],
+        "cities": [1]
+    }, {
+        "name": "Casa das Embalagens",
+        "phone": "(82) 991010930",
+        "link": "encurtador.com.br/fmopQ",
+        "location": "",
+        "brands": [],
+        "cities": [1]
+    }, {
+        "name": "PA Distribuidor",
+        "phone": "(82) 998202772",
+        "link": "encurtador.com.br/chyN5",
+        "location": "",
+        "brands": [],
+        "cities": [1]
+    }, {
+        "name": "Lìder Embalagens",
+        "phone": "(82) 999915443",
+        "link": "encurtador.com.br/jBEJN",
+        "location": "",
+        "brands": [],
+        "cities": [1]
+    }, {
+        "name": "Murici e Brito",
+        "phone": "(82) 999838877",
+        "link": "encurtador.com.br/hsxBS",
+        "location": "",
+        "brands": [],
+        "cities": [1]
+    }, {
+        "name": "Dia a Dia Distribuidora",
+        "phone": "(82) 999829657",
+        "link": "encurtador.com.br/tvIU6",
+        "location": "",
+        "brands": [],
+        "cities": [1]
+    }, {
+        "name": "Armazem do Sorveteiro",
+        "phone": "(82) 998210037",
+        "link": "encurtador.com.br/bfOU6",
+        "location": "",
+        "brands": [],
+        "cities": [2]
+    }, {
+        "name": "Casa das Essências",
+        "phone": "(82) 996543426",
+        "link": "encurtador.com.br/sxKX3",
+        "location": "",
+        "brands": [],
+        "cities": [2]
+    }, {
+        "name": "Azul Atacarejo",
+        "phone": "",
+        "link": "",
+        "location": "",
+        "brands": [],
+        "cities": [2]
+    }, {
+        "name": "Mercadão Festa Arapiraca",
+        "phone": "(82) 982093363",
+        "link": "encurtador.com.br/cxzC3",
+        "location": "",
+        "brands": [],
+        "cities": [2]
+    }, {
+        "name": "Fesplast",
+        "phone": "(82) 999243323",
+        "link": "encurtador.com.br/yEGL6",
+        "location": "",
+        "brands": [],
+        "cities": [2]
+    }, {
+        "name": "Primavera Embalagens",
+        "phone": "(82) 988822463",
+        "link": "encurtador.com.br/sxJY4",
+        "location": "",
+        "brands": [],
+        "cities": [2]
+    }, {
+        "name": "S. Pessoa Distribuidor",
+        "phone": "",
+        "link": "",
+        "location": "",
+        "brands": [],
+        "cities": [2]
+    }, {
+        "name": "Casa Daroma",
+        "phone": "(82)999604584",
+        "link": "encurtador.com.br/bpARW",
+        "location": "",
+        "brands": [],
+        "cities": [2]
+    }, {
+        "name": "Asa Branca ",
+        "phone": "",
+        "link": "",
+        "location": "",
+        "brands": [],
+        "cities": [2]
+    }, {
+        "name": "Kinitos",
+        "phone": "",
+        "link": "",
+        "location": "",
+        "brands": [],
+        "cities": [2]
+    }, {
+        "name": "J C Doces",
+        "phone": "(82) 991123569",
+        "link": "encurtador.com.br/ipqCT",
+        "location": "",
+        "brands": [],
+        "cities": [2]
+    }, {
+        "name": "Dist Popular",
+        "phone": "",
+        "link": "",
+        "location": "",
+        "brands": [],
+        "cities": [2]
+    }, {
+        "name": "RT Embalagens",
+        "phone": "(82) 999930021",
+        "link": "encurtador.com.br/pyLY5",
+        "location": "",
+        "brands": [],
+        "cities": [5]
+    }, {
+        "name": "Preço Doce Bomboniere",
+        "phone": "(82) 988860297",
+        "link": "encurtador.com.br/rtMT2",
+        "location": "",
+        "brands": [],
+        "cities": [6]
+    }, {
+        "name": "Bomboniere Barros",
+        "phone": "(82) 998303736",
+        "link": "encurtador.com.br/fqD19",
+        "location": "",
+        "brands": [],
+        "cities": [6]
+    }, {
+        "name": "Bomboniere Doce Gula",
+        "phone": "(82) 981398307",
+        "link": "encurtador.com.br/anHJN",
+        "location": "",
+        "brands": [],
+        "cities": [7]
+    }, {
+        "name": "Mundo das Embalagens",
+        "phone": "(82) 999113132",
+        "link": "encurtador.com.br/aisA8",
+        "location": "",
+        "brands": [],
+        "cities": [3]
+    }, {
+        "name": "Pontual Embalagens",
+        "phone": "(82) 982297577",
+        "link": "encurtador.com.br/dqRT4",
+        "location": "",
+        "brands": [],
+        "cities": [3]
+    }, {
+        "name": "Nordestino Queijos",
+        "phone": "(82) 996132526",
+        "link": "encurtador.com.br/afmsP",
+        "location": "",
+        "brands": [],
+        "cities": [10]
+    }, {
+        "name": "Supermercado Central",
+        "phone": "(82) 991734542",
+        "link": "encurtador.com.br/wAMO8",
+        "location": "",
+        "brands": [],
+        "cities": [9]
+    }, {
+        "name": "Papelaria Nunes",
+        "phone": "(82) 991469891",
+        "link": "encurtador.com.br/QU456",
+        "location": "",
+        "brands": [],
+        "cities": [9]
+    }, {
+        "name": "Embalar Distribuidora",
+        "phone": "(82) 993726839",
+        "link": "encurtador.com.br/mD024",
+        "location": "",
+        "brands": [],
+        "cities": [4]
+    }, {
+        "name": "Bomboniere Boa Sorte",
+        "phone": "(82) 999828475",
+        "link": "encurtador.com.br/bmyFL",
+        "location": "",
+        "brands": [],
+        "cities": [4]
+    }, {
+        "name": "Expofrios",
+        "phone": "(82) 999870459",
+        "link": "encurtador.com.br/jkCQV",
+        "location": "",
+        "brands": [],
+        "cities": [4]
+    }, {
+        "name": "Sena Bomboniere",
+        "phone": "(82) 996486767",
+        "link": "encurtador.com.br/NRUW4",
+        "location": "",
+        "brands": [],
+        "cities": [11]
+    }]
+}

@@ -1,0 +1,26 @@
+{
+    "name": "cakebot",
+    "version": "1.0.0",
+    "main": "src/index.js",
+    "bin": "src/index.js",
+    "license": "MIT",
+    "pkg": {
+        "scripts ": "src/**/*.js ",
+        "assets ": "src/data/*.json ",
+        "targets": [
+            "node12.16.3"
+        ]
+    },
+    "scripts": {
+        "dev": "nodemon src/index.js",
+        "build": "nexe -r src/** src/index.js"
+    },
+    "dependencies": {
+        "nexe": "^3.3.7",
+        "qrcode-terminal": "^0.12.0",
+        "whatsapp-web.js": "^1.7.0"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.4"
+    }
+}
